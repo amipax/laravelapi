@@ -19,6 +19,9 @@ Ingresar al directorio del proyecto backend creado
 Instalar paquete laravel-cors:
 `composer require fruitcake/laravel-cors`
 
+Crear nombre de la base de datos manualmente en phpmyadmin u otro gestor de bases
+`proyectodb`
+
 Crear archivo .env
 `cp .env.example .env`
 
